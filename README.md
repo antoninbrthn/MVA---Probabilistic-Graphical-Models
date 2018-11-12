@@ -1,3 +1,2 @@
-# MVA Course
-## Probabilistic Graphical Models
-## Francis Bach - Nicolas Chopin
+# MVA Course : Probabilistic Graphical Models
+# Francis Bach, Nicolas Chopin
